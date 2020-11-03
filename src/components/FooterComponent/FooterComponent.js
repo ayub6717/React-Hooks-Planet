@@ -8,7 +8,7 @@ function FooterComponent() {
 				<h5>Contacts</h5>
 				<p>MD.AYUB SHAMIM</p>
 				<p>ahmed1.ayub6717@gmail.com</p>
-				<p>01001010101010</p>
+				<p>+8801731357071</p>
 			</div>
 			<div className="col-md-4">
 				<h5>Social Links</h5>
