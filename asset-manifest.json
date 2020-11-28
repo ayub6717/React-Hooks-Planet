@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/React-Hooks-Planet/static/css/main.bc5b6cff.chunk.css",
-    "main.js": "/React-Hooks-Planet/static/js/main.9fa2ecd2.chunk.js",
-    "main.js.map": "/React-Hooks-Planet/static/js/main.9fa2ecd2.chunk.js.map",
+    "main.css": "/React-Hooks-Planet/static/css/main.9c3e46b7.chunk.css",
+    "main.js": "/React-Hooks-Planet/static/js/main.3e6ea5aa.chunk.js",
+    "main.js.map": "/React-Hooks-Planet/static/js/main.3e6ea5aa.chunk.js.map",
     "runtime-main.js": "/React-Hooks-Planet/static/js/runtime-main.b0bf7155.js",
     "runtime-main.js.map": "/React-Hooks-Planet/static/js/runtime-main.b0bf7155.js.map",
     "static/js/2.be763fd1.chunk.js": "/React-Hooks-Planet/static/js/2.be763fd1.chunk.js",
     "static/js/2.be763fd1.chunk.js.map": "/React-Hooks-Planet/static/js/2.be763fd1.chunk.js.map",
     "index.html": "/React-Hooks-Planet/index.html",
-    "precache-manifest.8ccff0fe0c0c95cad5434df1073cdc7b.js": "/React-Hooks-Planet/precache-manifest.8ccff0fe0c0c95cad5434df1073cdc7b.js",
+    "precache-manifest.af5cfb530b759b935df42d370f096b86.js": "/React-Hooks-Planet/precache-manifest.af5cfb530b759b935df42d370f096b86.js",
     "service-worker.js": "/React-Hooks-Planet/service-worker.js",
-    "static/css/main.bc5b6cff.chunk.css.map": "/React-Hooks-Planet/static/css/main.bc5b6cff.chunk.css.map",
+    "static/css/main.9c3e46b7.chunk.css.map": "/React-Hooks-Planet/static/css/main.9c3e46b7.chunk.css.map",
     "static/js/2.be763fd1.chunk.js.LICENSE.txt": "/React-Hooks-Planet/static/js/2.be763fd1.chunk.js.LICENSE.txt",
     "static/media/1.png": "/React-Hooks-Planet/static/media/1.4139fdd5.png",
     "static/media/1.jpg": "/React-Hooks-Planet/static/media/1.ca1af137.jpg",
@@ -29,7 +29,7 @@
   "entrypoints": [
     "static/js/runtime-main.b0bf7155.js",
     "static/js/2.be763fd1.chunk.js",
-    "static/css/main.bc5b6cff.chunk.css",
-    "static/js/main.9fa2ecd2.chunk.js"
+    "static/css/main.9c3e46b7.chunk.css",
+    "static/js/main.3e6ea5aa.chunk.js"
   ]
 }
